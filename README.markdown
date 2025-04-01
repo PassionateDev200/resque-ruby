@@ -884,4 +884,4 @@ This project uses [Semantic Versioning](http://semver.org/)
 Author
 ------
 
-Chris Wanstrath :: chris@ozmm.org :: @defunkt
+PassionateDev: softdev19950812@prooton.me
