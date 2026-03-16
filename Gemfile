@@ -10,7 +10,7 @@ end
 
 gem "json"
 gem "minitest", "~> 6.0"
-gem "mocha", "~> 2.0", require: false
+gem "mocha", "~> 3.1", require: false
 gem "rack-test", "~> 2.0"
 gem "rake"
 gem "rubocop", "~> 1.75"
